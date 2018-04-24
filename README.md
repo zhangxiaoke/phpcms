@@ -8,3 +8,4 @@ gpg is 3 hit
 gpg is 4 hit
 gpg is 5 hit
 gpg is 6 hit
+gpg is 7 hit
