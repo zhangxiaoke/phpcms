@@ -3,4 +3,4 @@ This is a content manage system
 
 myname is zhangxk
 
-git of version is 1.8
+gpg is a love ^_^
